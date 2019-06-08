@@ -1,4 +1,4 @@
-# Script to:
+# Script for:
 # 1) Connect to Twitter API, get tweets and store in MongoDB
 # 2) Take the tweets from MongoDB and:
 # 	a) Get URL to website of new
